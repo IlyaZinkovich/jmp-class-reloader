@@ -1,0 +1,6 @@
+2016-08-09 16:00:22 INFO  JarClassLoader:28 - Loading classes with com.epam.jmp.classloading.JarClassLoader@b4c966a
+2016-08-09 16:00:22 INFO  JarClassLoader:42 - Loaded class: com.epam.jmp.classloading.ClassToReload
+2016-08-09 16:00:22 INFO  Main:28 - good job
+2016-08-09 16:00:26 INFO  JarClassLoader:28 - Loading classes with com.epam.jmp.classloading.JarClassLoader@bebdb06
+2016-08-09 16:00:26 INFO  JarClassLoader:42 - Loaded class: com.epam.jmp.classloading.ClassToReload
+2016-08-09 16:00:26 INFO  Main:37 - bad job
